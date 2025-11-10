@@ -95,7 +95,7 @@ Robust MERN-based store with modern UI/UX, secure auth & Stripe payments.
 <p align="center">
 Immersive interactive 3D experience using Three.js & Next.js.
 <br><br>
-<a href="#"><img src="https://img.shields.io/badge/Live-Darkgreen?style=for-the-badge" /></a>
+<a href="https://github.com/Sihamkassim/Apex-E-Commerce"><img src="https://img.shields.io/badge/Live-Darkgreen?style=for-the-badge" /></a>
 </p>
 </td>
 </tr>
