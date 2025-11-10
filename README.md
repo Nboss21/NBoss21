@@ -86,7 +86,7 @@ I turn innovative ideas into seamless digital products.
 <p align="center">
 Robust MERN-based store with modern UI/UX, secure auth & Stripe payments.
 <br><br>
-<a href="#"><img src="https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/Sihamkassim/Apex-E-Commerce"><img src="https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github" /></a>
 </p>
 </td>
 
@@ -95,7 +95,7 @@ Robust MERN-based store with modern UI/UX, secure auth & Stripe payments.
 <p align="center">
 Immersive interactive 3D experience using Three.js & Next.js.
 <br><br>
-<a href="https://github.com/Sihamkassim/Apex-E-Commerce"><img src="https://img.shields.io/badge/Live-Darkgreen?style=for-the-badge" /></a>
+<a #"><img src="https://img.shields.io/badge/Live-Darkgreen?style=for-the-badge" /></a>
 </p>
 </td>
 </tr>
